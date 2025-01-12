@@ -6,13 +6,13 @@ FanMerch is an ecommerce app that provides influencers with a unique platform to
 ## ScreenShots
 
 ### Home
-![Home](https://raw.githubusercontent.com/teshank2137/FanMerch/master/ss1.jpg)
+![Home](https://raw.githubusercontent.com/Hassan252927/FanMerch-master/master/ss1.jpg)
 ### Product List
 
-![product list](https://raw.githubusercontent.com/teshank2137/FanMerch/master/ss2.jpg)
+![product list](https://raw.githubusercontent.com/Hassan252927/FanMerch-master/master/ss2.jpg)
 ### Product Details
-![Product Details](https://raw.githubusercontent.com/teshank2137/FanMerch/master/ss3.jpg)
+![Product Details](https://raw.githubusercontent.com/Hassan252927/FanMerch-master/master/ss3.jpg)
 ### Cart
-![cart](https://raw.githubusercontent.com/teshank2137/FanMerch/master/ss4.jpg)
+![cart](https://raw.githubusercontent.com/Hassan252927/FanMerch-master/master/ss4.jpg)
 ### Payments
-![Payments](https://raw.githubusercontent.com/teshank2137/FanMerch/master/ss5.jpg)
+![Payments](https://raw.githubusercontent.com/Hassan252927/FanMerch-master/master/ss5.jpg)
